@@ -820,10 +820,24 @@ select {
     margin-bottom: 24px;
   }
 
-  .cart__book--img {
+  /* .cart__book--img {
     display: none;
-  }
+  } */
+
   .cart__book--info {
     padding-left: 0;
+    padding-right: 10px;
+  }
+
+  .book__img{
+    height: 260px;
+  }
+
+  .cart__book--price{
+    display: none;
+  }
+
+  .book__img--skeleton{
+    height: 260px;
   }
 }

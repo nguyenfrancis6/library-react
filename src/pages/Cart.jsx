@@ -39,7 +39,7 @@ const Cart = ({ cart, changeQuantity, removeItem }) => {
                           <span className="cart__book--title">
                             {book.title}
                           </span>
-                          <span className="cart__book--title">
+                          <span className="cart__book--price">
                             ${(book.salePrice || book.originalPrice).toFixed(2)}
                           </span>
                           <button
