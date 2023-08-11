@@ -820,13 +820,8 @@ select {
     margin-bottom: 24px;
   }
 
-  /* .cart__book--img {
-    display: none;
-  } */
-
   .cart__book--info {
-    padding-left: 0;
-    padding-right: 10px;
+    display: none;
   }
 
   .book__img{
