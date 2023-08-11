@@ -46,8 +46,6 @@ a:hover {
   text-decoration: underline;
 }
 
-
-
 ul {
   display: flex;
 }
@@ -824,11 +822,7 @@ select {
     height: 260px;
   }
 
-  .cart__book--img{
-    max-width: 60px;
-  }
-
-  .cart__book--price{
+  .cart__book--price, .cart__book--img{
     display: none;
   }
 
