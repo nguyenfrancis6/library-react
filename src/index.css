@@ -820,12 +820,12 @@ select {
     margin-bottom: 24px;
   }
 
-  .cart__book--info {
-    display: none;
-  }
-
   .book__img{
     height: 260px;
+  }
+
+  .cart__book--img{
+    max-width: 60px;
   }
 
   .cart__book--price{
